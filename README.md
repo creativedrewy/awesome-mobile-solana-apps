@@ -4,7 +4,7 @@
 
 [<img src="https://solana.com/src/img/branding/solanaLogoMark.png" align="right" width="100">](https://www.tiktok.com/)
 
-There are a ton of great mobile apps & games built on Solana that can be downloaded right now. So many, in fact, it can be hard to find all of them! This list is meant to be a central place where we can keep track of all of these amazing apps with links where they can be downloaded.
+There are a ton of great mobile apps & games built on Solana that can be downloaded right now. So many, in fact, it can be hard to find all of them! This list is meant to be a central place where we can keep track of all of these amazing apps with links to where they can be downloaded.
 
 **If you have released a mobile app, add it to this list!**
 
@@ -27,7 +27,6 @@ _Please read the [contribution guidelines](#contributing) before contributing._
 | Espresso Cash | [https://twitter.com/espresso_cash](https://twitter.com/espresso_cash)     | [Link](https://play.google.com/store/apps/details?id=com.pleasecrypto.flutter) | [Link](https://apps.apple.com/us/app/espresso-cash/id1559625715)                |
 | Exodus        | [https://twitter.com/exodus_io](https://twitter.com/exodus_io)             | [Link](https://play.google.com/store/apps/details?id=exodusmovement.exodus)    | [Link](https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820) |
 | Glow          | [https://twitter.com/glowwallet](https://twitter.com/glowwallet)           | [Link](https://play.google.com/store/apps/details?id=com.luma.wallet.prod)     | [Link](https://apps.apple.com/us/app/glow-solana-wallet/id1599584512)           |
-| Ledger Live   | [https://twitter.com/Ledger](https://twitter.com/Ledger)                   | [Link](https://play.google.com/store/apps/details?id=com.ledger.live)          | [Link](https://apps.apple.com/us/app/ledger-live-crypto-nft-app/id1361671700)   |
 | OKX           | [https://twitter.com/okx](https://twitter.com/okx)                         | [Link](https://play.google.com/store/apps/details?id=com.okinc.okex.gp)        | [Link](https://apps.apple.com/us/app/okx-buy-bitcoin-btc-crypto/id1327268470)   |
 | Ottr          | [https://twitter.com/ottrfinance](https://twitter.com/ottrfinance)         | [Link](https://play.google.com/store/apps/details?id=finance.ottr.android)     | [Link](https://apps.apple.com/us/app/ottr-wallet/id1628669270)                  |
 | Phantom       | [https://twitter.com/phantom](https://twitter.com/phantom)                 | [Link](https://play.google.com/store/apps/details?id=app.phantom)              | [Link](https://apps.apple.com/us/app/phantom-crypto-wallet/id1598432977)        |
@@ -80,14 +79,14 @@ _Please read the [contribution guidelines](#contributing) before contributing._
 | App        | Twitter                                                              | Play Store                                                                  | Apple App Store                                                              |
 |------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Bonk App   | [https://twitter.com/bonk_inu](https://twitter.com/bonk_inu)         | [Link](https://play.google.com/store/apps/details?id=com.bonkapp)           |                                                                              |
-| Code       | [https://twitter.com/getcode](https://twitter.com/tabtraderpro) |                                                                             | [Link](https://apps.apple.com/ca/app/code-wallet/id1562384846)               |
+| Code       | [https://twitter.com/getcode](https://twitter.com/tabtraderpro)      |                                                                             | [Link](https://apps.apple.com/ca/app/code-wallet/id1562384846)               |
 | Tab Trader | [https://twitter.com/tabtraderpro](https://twitter.com/tabtraderpro) | [Link](https://play.google.com/store/apps/details?id=com.tabtrader.android) | [Link](https://apps.apple.com/us/app/tabtrader-crypto-terminal/id1095716562) |
 
 ### Other
 
 | App           | Twitter                                                                | Play Store                                                                       | Apple App Store                                                                  |
 |---------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Brave         | [https://twitter.com/brave](https://twitter.com/brave)                 | [Link](https://play.google.com/store/apps/details?id=com.brave.browser)          | [Link](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175) |
+| Brave Browser | [https://twitter.com/brave](https://twitter.com/brave)                 | [Link](https://play.google.com/store/apps/details?id=com.brave.browser)          | [Link](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175) |
 | Helium Mobile | [https://twitter.com/helium_mobile](https://twitter.com/helium_mobile) | [Link](https://play.google.com/store/apps/details?id=com.helium.mobile.wireless) | [Link](https://apps.apple.com/us/app/helium-mobile/id1640323514)                 |
 | Synx          | [https://twitter.com/synx_xyz](https://twitter.com/synx_xyz)           | [Link](https://play.google.com/store/apps/details?id=com.synx)                   |                                                                                  |
 
