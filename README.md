@@ -4,11 +4,11 @@
 
 [<img src="https://solana.com/src/img/branding/solanaLogoMark.png" align="right" width="100">](https://www.tiktok.com/)
 
-There are a ton of great mobile apps & games built on Solana that can be downloaded right now. So many, in fact, it can be hard to find all of them! This list is meant to be a central place where we can keep track of all of these amazing apps with links where they can be downloaded. **If you have a released mobile app, add it to this list!**
+There are a ton of great mobile apps & games built on Solana that can be downloaded right now. So many, in fact, it can be hard to find all of them! This list is meant to be a central place where we can keep track of all of these amazing apps with links where they can be downloaded.
+
+**If you have released a mobile app, add it to this list!**
 
 _Please read the [contribution guidelines](#contributing) before contributing._
-
-_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list trend._
 
 ## Contents
 
@@ -118,9 +118,9 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list trend._
 
 ## Contributing
 
-- In order to qualify for this list, an app must already be released on an existing app store, or at least be going through the review process and have a testflight/test track enrollment link on at least one public app store. 
+- In order to qualify for this list, an app must already be released on an existing app store, or at least be going through the review process & have a Testflight/test track enrollment link on at least one public app store. 
 - Apps that are being built but not yet released will not be added. Release your app so you can put it on this list!
-- Add your entry in alphabetical order, based on the first letter or character of the app name.
+- Add your entry in alphabetical order in its respective category, based on the first letter or character of the app name.
 - Adding your own app or game is preferable. You may add someone else's entry as long as all information is accurate.
 - PWAs have a special table of their own at the end of the category list. 
 
@@ -129,6 +129,8 @@ _Inspired by the [awesome](https://github.com/sindresorhus/awesome) list trend._
 # General Info
 
 - Need help with Markdown? Here is [a guide](https://guides.github.com/features/mastering-markdown/).
-- Legal: this list is not officially sponsored by or affiliated with Solana or Solana Mobile in any way.
+- Legal: the apps on this list are not sponsored by or affiliated with Solana/Solana Mobile.
+
+_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list trend._
 
 [⬆ Back to top](#contents)
