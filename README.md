@@ -80,7 +80,7 @@ _Please read the [contribution guidelines](#contributing) before contributing._
 | App        | Twitter                                                              | Play Store                                                                  | Apple App Store                                                              |
 |------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Bonk App   | [https://twitter.com/bonk_inu](https://twitter.com/bonk_inu)         | [Link](https://play.google.com/store/apps/details?id=com.bonkapp)           |                                                                              |
-| Code       | [https://twitter.com/getcode?lang](https://twitter.com/tabtraderpro) |                                                                             | [Link](https://apps.apple.com/ca/app/code-wallet/id1562384846)               |
+| Code       | [https://twitter.com/getcode](https://twitter.com/tabtraderpro) |                                                                             | [Link](https://apps.apple.com/ca/app/code-wallet/id1562384846)               |
 | Tab Trader | [https://twitter.com/tabtraderpro](https://twitter.com/tabtraderpro) | [Link](https://play.google.com/store/apps/details?id=com.tabtrader.android) | [Link](https://apps.apple.com/us/app/tabtrader-crypto-terminal/id1095716562) |
 
 ### Other
