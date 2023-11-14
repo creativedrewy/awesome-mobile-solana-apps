@@ -75,11 +75,12 @@ _Please read the [contribution guidelines](#contributing) before contributing._
 | Rebase GG | [https://twitter.com/REBASEgg](https://twitter.com/REBASEgg)           | [Link](https://play.google.com/store/apps/details?id=gg.rebase.app)          |                                                          |
 | Stepn     | [https://twitter.com/Stepnofficial](https://twitter.com/Stepnofficial) | [Link](https://play.google.com/store/apps/details?id=com.bcy.fsapp)          | [Link](https://apps.apple.com/us/app/stepn/id1598112424) |
 
-### DeFi
+### DeFi / Finance
 
 | App        | Twitter                                                              | Play Store                                                                  | Apple App Store                                                              |
 |------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Bonk App   | [https://twitter.com/bonk_inu](https://twitter.com/bonk_inu)         | [Link](https://play.google.com/store/apps/details?id=com.bonkapp)           |                                                                              |
+| Code       | [https://twitter.com/getcode?lang](https://twitter.com/tabtraderpro) |                                                                             | [Link](https://apps.apple.com/ca/app/code-wallet/id1562384846)               |
 | Tab Trader | [https://twitter.com/tabtraderpro](https://twitter.com/tabtraderpro) | [Link](https://play.google.com/store/apps/details?id=com.tabtrader.android) | [Link](https://apps.apple.com/us/app/tabtrader-crypto-terminal/id1095716562) |
 
 ### Other
