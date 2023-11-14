@@ -2,7 +2,7 @@
 
 > A community-curated list of all the amazing mobile apps & games built on Solana!
 
-[<img src="https://solana.com/src/img/branding/solanaLogoMark.png" align="right" width="100">](https://www.tiktok.com/)
+[<img src="https://solana.com/src/img/branding/solanaLogoMark.png" align="right" width="100">](https://solanamobile.com/)
 
 There are a ton of great mobile apps & games built on Solana that can be downloaded right now. So many, in fact, it can be hard to find all of them! This list is meant to be a central place where we can keep track of all of these amazing apps with links to where they can be downloaded.
 
@@ -104,7 +104,6 @@ _Please read the [contribution guidelines](#contributing) before contributing._
 | Honeyland           | [https://twitter.com/PlayHoneyland](https://twitter.com/PlayHoneyland)     |                                                                                                                     | [Testflight](https://testflight.apple.com/join/jEhjLFAT)                       |
 | Hunters On-Chain    | [https://twitter.com/PlayHoC](https://twitter.com/PlayHoC)                 | [Link](https://play.google.com/store/apps/details?id=com.hunters.on.chain.mainnet)                                  | [Testflight](https://testflight.apple.com/join/mnB642dv)                       |
 | Rooniverse          | [https://twitter.com/playrooniverse](https://twitter.com/playrooniverse)   | [Appcenter](https://install.appcenter.ms/orgs/xp-foundry/apps/rooniverse-android/distribution_groups/public%20link) | [Testflight](https://testflight.apple.com/join/KGfVohbB)                       |
-
 
 ### PWAs
 
