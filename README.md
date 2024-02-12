@@ -101,11 +101,11 @@ _Please read the [contribution guidelines](#contributing) before contributing._
 | Bitbrawl            | [https://twitter.com/bitbrawlio](https://twitter.com/bitbrawlio)           | [Link](https://play.google.com/store/apps/details?id=com.BitBrawlINC.BitBrawl)                                      | [Link](https://apps.apple.com/us/app/bitbrawl/id6446123576)                    |
 | Cricket Clash       | [https://twitter.com/cricinshots](https://twitter.com/cricinshots)         | [Link](https://play.google.com/store/apps/details?id=com.wegalabs.cricinshots)                                      | [Link](https://apps.apple.com/in/app/cricket-clash-world-cup-pvp/id1663784604) |
 | Genopets            | [https://twitter.com/genopets](https://twitter.com/genopets)               | [Link](https://play.google.com/store/apps/details?id=me.genopets.mobile)                                            |                                                                                |
-| Honeyland           | [https://twitter.com/PlayHoneyland](https://twitter.com/PlayHoneyland)     |                                                                                                                     | [Testflight](https://testflight.apple.com/join/jEhjLFAT)                       |
+| Honeyland           | [https://twitter.com/PlayHoneyland](https://twitter.com/PlayHoneyland)     | [Link](https://play.google.com/store/apps/details?id=honey.land.game)                                               | [Testflight](https://testflight.apple.com/join/jEhjLFAT)                       |
 | Hunters On-Chain    | [https://twitter.com/PlayHoC](https://twitter.com/PlayHoC)                 | [Link](https://play.google.com/store/apps/details?id=com.hunters.on.chain.mainnet)                                  | [Testflight](https://testflight.apple.com/join/mnB642dv)                       |
 | Rooniverse          | [https://twitter.com/playrooniverse](https://twitter.com/playrooniverse)   | [Appcenter](https://install.appcenter.ms/orgs/xp-foundry/apps/rooniverse-android/distribution_groups/public%20link) | [Testflight](https://testflight.apple.com/join/KGfVohbB)                       |
 
-### PWAs
+### PWAs 
 
 | App       | Category | Twitter                                                                | URL                               |
 |-----------|----------|------------------------------------------------------------------------|-----------------------------------|
