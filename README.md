@@ -31,6 +31,8 @@ _Please read the [contribution guidelines](#contributing) before contributing._
 | Ottr          | [https://twitter.com/ottrfinance](https://twitter.com/ottrfinance)         | [Link](https://play.google.com/store/apps/details?id=finance.ottr.android)     | [Link](https://apps.apple.com/us/app/ottr-wallet/id1628669270)                  |
 | Phantom       | [https://twitter.com/phantom](https://twitter.com/phantom)                 | [Link](https://play.google.com/store/apps/details?id=app.phantom)              | [Link](https://apps.apple.com/us/app/phantom-crypto-wallet/id1598432977)        |
 | Solflare      | [https://twitter.com/solflare_wallet](https://twitter.com/solflare_wallet) | [Link](https://play.google.com/store/apps/details?id=com.solflare.mobile)      | [Link](https://apps.apple.com/us/app/solflare-solana-wallet/id1580902717)       |
+| Kitepay      | [https://twitter.com/kytpay](https://twitter.com/kytpay)                    | [Link](https://play.google.com/store/apps/details?id=org.kitepay.app)      |                                                                  |
+
 
 ### Social
 
